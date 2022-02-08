@@ -1,0 +1,9 @@
+task 4
+mobil nomreler
+
+/(\+\d{2}|\d{2}-|\d{2}|\d{1})?\d{10}/gm
+
+
+ task3 gun ay tarix
+
+https://regex101.com/r/GIqZvq/1
